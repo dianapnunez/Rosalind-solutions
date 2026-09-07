@@ -1,14 +1,14 @@
-### 🛠️ Rosalind Solutions
+## 🛠️ Rosalind Solutions
 
 In this repository, I've included my solutions to bioinformatics problems from the Rosalind platform using Python.
 
-### 🔍 About
+## 🔍 About
 
 [Rosalind](https://rosalind.info/) is a popular, free educational platform for learning bioinformatics and computer science through hands-on problem solving. 
 
 [Check out my Rosalind Profile](https://rosalind.info/users/dianapnunez/)
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 Rosalind-solutions/
@@ -22,18 +22,18 @@ Rosalind-solutions/
 
 ## 📈 Progress Table
 
-| ID | Title | Original Lesson | My Solution |
-| :--- | :--- | :--- | :--- |
-| CONS | Consensus and Profile | [Lesson](https://rosalind.infoproblems/cons/) | |
-| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.infoproblems/fibd/) | |
-| GRPH | Overlap Graphs | [Lesson](https://rosalind.infoproblems/grph/) | |
-| IEV | Calculating Expected Offspring | [Lesson](https://rosalind.infoproblems/iev/) | |
-| LCSM | Finding a Shared Motif | [Lesson](https://rosalind.infoproblems/lcsm/) | |
-| LIA | Independent Alleles | [Lesson](https://rosalind.infoproblems/lia/) | |
-| MPRT | Finding a Protein Motif | [Lesson](https://rosalind.infoproblems/mprt/) | |
-| MRNA | RNA Splicing | [Lesson](https://rosalind.infoproblems/mrna/) | |
-| ORF | Open Reading Frames | [Lesson](https://rosalind.infoproblems/orf/) | |
-| PERM | Enumerating Gene Orders | [Lesson](https://rosalind.infoproblems/perm/) | |
+| ID | Title | Original Lesson                                | My Solution |
+| :--- | :--- |:-----------------------------------------------| :--- |
+| CONS | Consensus and Profile | [Lesson](https://rosalind.info/problems/cons/) | |
+| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.infoproblems/fibd/)  | |
+| GRPH | Overlap Graphs | [Lesson](https://rosalind.infoproblems/grph/)  | |
+| IEV | Calculating Expected Offspring | [Lesson](https://rosalind.infoproblems/iev/)   | |
+| LCSM | Finding a Shared Motif | [Lesson](https://rosalind.infoproblems/lcsm/)  | |
+| LIA | Independent Alleles | [Lesson](https://rosalind.infoproblems/lia/)   | |
+| MPRT | Finding a Protein Motif | [Lesson](https://rosalind.infoproblems/mprt/)  | |
+| MRNA | RNA Splicing | [Lesson](https://rosalind.infoproblems/mrna/)  | |
+| ORF | Open Reading Frames | [Lesson](https://rosalind.infoproblems/orf/)   | |
+| PERM | Enumerating Gene Orders | [Lesson](https://rosalind.infoproblems/perm/)  | |
 
 ## 💻 Tech Stack
 
