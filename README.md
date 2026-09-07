@@ -22,18 +22,18 @@ Rosalind-solutions/
 
 ## 📈 Progress Table
 
-| ID | Title | Original Lesson                                | My Solution |
-| :--- | :--- |:-----------------------------------------------| :--- |
-| CONS | Consensus and Profile | [Lesson](https://rosalind.info/problems/cons/) | |
-| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.infoproblems/fibd/)  | |
-| GRPH | Overlap Graphs | [Lesson](https://rosalind.infoproblems/grph/)  | |
-| IEV | Calculating Expected Offspring | [Lesson](https://rosalind.infoproblems/iev/)   | |
-| LCSM | Finding a Shared Motif | [Lesson](https://rosalind.infoproblems/lcsm/)  | |
-| LIA | Independent Alleles | [Lesson](https://rosalind.infoproblems/lia/)   | |
-| MPRT | Finding a Protein Motif | [Lesson](https://rosalind.infoproblems/mprt/)  | |
-| MRNA | RNA Splicing | [Lesson](https://rosalind.infoproblems/mrna/)  | |
-| ORF | Open Reading Frames | [Lesson](https://rosalind.infoproblems/orf/)   | |
-| PERM | Enumerating Gene Orders | [Lesson](https://rosalind.infoproblems/perm/)  | |
+| ID | Title | Original Lesson                                | My Solution  |
+| :--- | :--- |:-----------------------------------------------|:-------------|
+| CONS | Consensus and Profile | [Lesson](https://rosalind.info/problems/cons/) | [Solution](https://github.com/dianapnunez/Rosalind-solutions/blob/main/Bioinformatics%20Stronghold/Code/cons.py) |
+| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.infoproblems/fibd/)  |              |
+| GRPH | Overlap Graphs | [Lesson](https://rosalind.infoproblems/grph/)  |              |
+| IEV | Calculating Expected Offspring | [Lesson](https://rosalind.infoproblems/iev/)   |              |
+| LCSM | Finding a Shared Motif | [Lesson](https://rosalind.infoproblems/lcsm/)  |              |
+| LIA | Independent Alleles | [Lesson](https://rosalind.infoproblems/lia/)   |              |
+| MPRT | Finding a Protein Motif | [Lesson](https://rosalind.infoproblems/mprt/)  |              |
+| MRNA | RNA Splicing | [Lesson](https://rosalind.infoproblems/mrna/)  |              |
+| ORF | Open Reading Frames | [Lesson](https://rosalind.infoproblems/orf/)   |              |
+| PERM | Enumerating Gene Orders | [Lesson](https://rosalind.infoproblems/perm/)  |              |
 
 ## 💻 Tech Stack
 
