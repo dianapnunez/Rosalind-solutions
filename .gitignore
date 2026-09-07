@@ -1,0 +1,22 @@
+### PyCharm internal project configurations
+
+.idea/ 
+
+### Local Python virtual environment files
+
+.venv/
+venv/
+ENV/ 
+
+### Python background compilation cache folders
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd 
+
+### Large raw Rosalind data files (Optional but highly recommended)
+
+data/
+*.txt
+*.out
