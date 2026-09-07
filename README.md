@@ -6,24 +6,19 @@ In this repository, I've included my solutions to bioinformatics problems from t
 
 [Rosalind](https://rosalind.info/) is a popular, free educational platform for learning bioinformatics and computer science through hands-on problem solving. 
 
-* [My Rosalind Profile](https://rosalind.info/users/dianapnunez/)
+[Check out my Rosalind Profile](https://rosalind.info/users/dianapnunez/)
 
 ### 📁 Project Structure
 
-text
-
+```text
 Rosalind-solutions/
-│
 ├── Bioinformatics Stronghold/  # Main project directory for the core Rosalind track
 │   ├── Code/                  # Individual Python script files (.py)
 │   ├── Data/                  # Raw text datasets downloaded for Rosalind (.txt)
 │   └── Utilities/             # Static lookup tables and global constants used by execution scripts
-│
 ├── .gitignore                 # Excludes local environments and data files
 └── README.md                  # Project overview, objectives, and progress trackers
-
-Use code with caution.
-
+```
 
 ## 📈 Progress Table
 
