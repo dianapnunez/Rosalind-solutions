@@ -19,46 +19,24 @@ Original Lesson 
 
 My Solution 
 
-### Rosalind Solutions
-
-My Solutions to Rosalind Stronghold problems using Python. 
-
-If these solutions help you, consider ⭐ **starring the repo** to support my journey! 
-
-### 📋 About
-
-[Rosalind](https://rosalind.info/) is a platform for learning bioinformatics and programming through problem solving. 
-
-* [My Rosalind Profile](YOUR_ROSALIND_PROFILE_URL)
-
-### 📅 Progress Table
-
-ID 
-
-Title 
-
-Original Lesson 
-
-My Solution 
-
 **CONS**
-Consensus and Profile[Lesson](https://rosalind.info/problems/cons/)[Solution](./solutions/cons.py)
+Consensus and Profile[Lesson](https://rosalind.info/problems/cons/)
 **FIBD**
-Mortal Fibonacci Rabbits[Lesson](https://rosalind.info/problems/fibd/)[Solution](./solutions/fibd.py)
+Mortal Fibonacci Rabbits[Lesson](https://rosalind.info/problems/fibd/)
 **GRPH**
-Overlap Graphs[Lesson](https://rosalind.info/problems/grph/)[Solution](./solutions/grph.py)
+Overlap Graphs[Lesson](https://rosalind.info/problems/grph/)
 **IEV**
-Calculating Expected Offspring[Lesson](https://rosalind.info/problems/iev/)[Solution](./solutions/iev.py)
+Calculating Expected Offspring[Lesson](https://rosalind.info/problems/iev/)
 **LCSM**
-Finding a Shared Motif[Lesson](https://rosalind.info/problems/lcsm/)[Solution](./solutions/lcsm.py)
+Finding a Shared Motif[Lesson](https://rosalind.info/problems/lcsm/)
 **LIA**
-Independent Alleles[Lesson](https://rosalind.info/problems/lia/)[Solution](./solutions/lia.py)
+Independent Alleles[Lesson](https://rosalind.info/problems/lia/)
 **MPRT**
-Finding a Protein Motif[Lesson](https://rosalind.info/problems/mprt/)[Solution](./solutions/mprt.py)
+Finding a Protein Motif[Lesson](https://rosalind.info/problems/mprt/)
 **MRNA**
-RNA Splicing[Lesson](https://rosalind.info/problems/mrna/)[Solution](./solutions/mrna.py)
+RNA Splicing[Lesson](https://rosalind.info/problems/mrna/)
 
 **ORF**
-Open Reading Frames[Lesson](https://rosalind.info/problems/orf/)[Solution](./solutions/orf.py)
+Open Reading Frames[Lesson](https://rosalind.info/problems/orf/)
 **PERM**
-Enumerating Gene Orders[Lesson](https://rosalind.info/problems/perm/)[Solution](./solutions/perm.py)
+Enumerating Gene Orders[Lesson](https://rosalind.info/problems/perm/)
