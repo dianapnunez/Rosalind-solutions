@@ -15,8 +15,3 @@ ENV/ 
 *.pyo
 *.pyd 
 
-### Large raw Rosalind data files (Optional but highly recommended)
-
-data/
-*.txt
-*.out
