@@ -25,8 +25,8 @@ Rosalind-solutions/
 | ID | Title | Original Lesson                                | My Solution                                                                                                      |
 | :--- | :--- |:-----------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|
 | CONS | Consensus and Profile | [Lesson](https://rosalind.info/problems/cons/) | [Solution](https://github.com/dianapnunez/Rosalind-solutions/blob/main/Bioinformatics%20Stronghold/Code/cons.py) |
-| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.infoproblems/fibd/)  | [Solution](https://github.com/dianapnunez/Rosalind-solutions/blob/main/Bioinformatics%20Stronghold/Code/FIBD.py)                                                                                                     |
-| GRPH | Overlap Graphs | [Lesson](https://rosalind.infoproblems/grph/)  |                                                                                                                  |
+| FIBD | Mortal Fibonacci Rabbits | [Lesson](https://rosalind.info/problems/fibd/) | [Solution](https://github.com/dianapnunez/Rosalind-solutions/blob/main/Bioinformatics%20Stronghold/Code/FIBD.py) |
+| GRPH | Overlap Graphs | [Lesson](https://rosalind.info/problems/grph/) | [Solution](https://github.com/dianapnunez/Rosalind-solutions/blob/main/Bioinformatics%20Stronghold/Code/GRPH.py) |
 | IEV | Calculating Expected Offspring | [Lesson](https://rosalind.infoproblems/iev/)   |                                                                                                                  |
 | LCSM | Finding a Shared Motif | [Lesson](https://rosalind.infoproblems/lcsm/)  |                                                                                                                  |
 | LIA | Independent Alleles | [Lesson](https://rosalind.infoproblems/lia/)   |                                                                                                                  |
